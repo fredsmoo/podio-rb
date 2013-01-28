@@ -158,3 +158,5 @@ Meta
 * Bugs: <https://github.com/podio/podio-rb/issues>
 
 This project uses [Semantic Versioning](http://semver.org/).
+
+Thanks for reading
